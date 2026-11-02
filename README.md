@@ -1,1 +1,5 @@
 These files create Composer's Pal, a custom audio plugin powered by JUCE to replicate the sounds of various instruments in different environments. There are 4 options for environments and 2 options for instrumentation in the first commit. The application hosts's it's own synthesizer in the style of a piano keyboard, and allows the user to see the different values used in JUCE to create the 4 different environments. (Values provided by research on Google Gemini) This project was created for the Music and Audio Programming course at Queen Mary University of London and recieved a distinction. In order to run this code, you must have JUCE installed.
+
+A video demo of this code can be found here: https://www.youtube.com/watch?v=OQKmEfUEFHQ 
+
+The application itself features 4 common spaces for acoustic musicians to play, a practice room, a concert hall, a recital hall, and an outdoor ampetheater. The user can also choose between a piano and square wave sound for the synthesizer, which in both cases is played on the piano keyboard presented in the GUI. 
